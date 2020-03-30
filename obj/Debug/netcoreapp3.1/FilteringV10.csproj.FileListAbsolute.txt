@@ -1,0 +1,11 @@
+C:\c#_code\FilteringV10\bin\Debug\netcoreapp3.1\FilteringV10.exe
+C:\c#_code\FilteringV10\bin\Debug\netcoreapp3.1\FilteringV10.deps.json
+C:\c#_code\FilteringV10\bin\Debug\netcoreapp3.1\FilteringV10.runtimeconfig.json
+C:\c#_code\FilteringV10\bin\Debug\netcoreapp3.1\FilteringV10.runtimeconfig.dev.json
+C:\c#_code\FilteringV10\bin\Debug\netcoreapp3.1\FilteringV10.dll
+C:\c#_code\FilteringV10\bin\Debug\netcoreapp3.1\FilteringV10.pdb
+C:\c#_code\FilteringV10\obj\Debug\netcoreapp3.1\FilteringV10.csprojAssemblyReference.cache
+C:\c#_code\FilteringV10\obj\Debug\netcoreapp3.1\FilteringV10.AssemblyInfoInputs.cache
+C:\c#_code\FilteringV10\obj\Debug\netcoreapp3.1\FilteringV10.AssemblyInfo.cs
+C:\c#_code\FilteringV10\obj\Debug\netcoreapp3.1\FilteringV10.dll
+C:\c#_code\FilteringV10\obj\Debug\netcoreapp3.1\FilteringV10.pdb
